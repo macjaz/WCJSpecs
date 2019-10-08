@@ -9,7 +9,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "WCJSpecs"
-  spec.version      = "0.0.1"
+  spec.version      = "0.1.0"
   spec.summary      = "A short description of WCJSpecs."
 
   spec.description  = <<-DESC
